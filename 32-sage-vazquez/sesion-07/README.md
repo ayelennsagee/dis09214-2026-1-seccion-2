@@ -17,3 +17,13 @@ width es la bolobeana que indica el tamaño del lienzo, entonces al colocarle la
 Claro que para colocor aquella condición debemos ingresar una función del WHILE que es el LET. En este indicamos que nuestro X o Y se encuentra en una posición del lienzo. La variable antes del WHILE para que este funcione.
 
 ## FOR
+El FOR se utiliza un poco más que el WHILE
+Los bucles `for` son útiles para repetir instrucciones un
+número determinado de veces.
+Son una especie de SHORTCUT para hacer loops y siempre tienen 4
+elementos:
+
+1. Inicialización de una variable
+2. Condición booleana (V-F)
+3. Actualización (Incrementación o decrementación)
+4. Lo que queremos que pasé cuando la condición sea TRUE
