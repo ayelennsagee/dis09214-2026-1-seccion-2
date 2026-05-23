@@ -1,2 +1,3 @@
 # Solemne 02
 
+INFORMACIÓN DEL PROYECTO
