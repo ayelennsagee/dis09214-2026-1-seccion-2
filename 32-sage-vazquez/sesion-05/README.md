@@ -1,8 +1,8 @@
 # sesión 04 - 17/04
 
-# Transformaciones y condicionales 
+# Transformaciones y condicionales en p5.js
 ### ¿Qúe son las Radianes?
-# Resumen — Transformaciones y Condicionales en p5.js
+
 
 El documento explica cómo transformar figuras y utilizar lógica condicional en p5.js para crear composiciones más dinámicas e interactivas.
 
@@ -18,7 +18,7 @@ Se presentan referencias importantes como:
 - `QUARTER_PI`
 - `TWO_PI`
 
-Luego se explican las transformaciones principales.
+Luego las transformaciones principales.
 
 La función `rotate()` sirve para rotar elementos alrededor del punto de origen `(0,0)`.
 
