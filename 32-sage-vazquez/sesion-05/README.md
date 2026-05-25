@@ -1,3 +1,110 @@
 # sesión 04 - 17/04
 
 # Transformaciones y condicionales 
+### ¿Qúe son las Radianes?
+# Resumen — Transformaciones y Condicionales en p5.js
+
+El documento explica cómo transformar figuras y utilizar lógica condicional en p5.js para crear composiciones más dinámicas e interactivas.
+
+Primero se introducen los radianes y los ángulos. p5.js trabaja por defecto con radianes usando `angleMode(RADIANS)`, aunque también se puede cambiar a grados con:
+
+```js
+angleMode(DEGREES);
+```
+
+Se presentan referencias importantes como:
+- `PI`
+- `HALF_PI`
+- `QUARTER_PI`
+- `TWO_PI`
+
+Luego se explican las transformaciones principales.
+
+La función `rotate()` sirve para rotar elementos alrededor del punto de origen `(0,0)`.
+
+Ejemplo:
+```js
+rotate(20);
+```
+
+La función `translate()` mueve el punto de origen a otra posición del canvas.
+
+Ejemplo:
+```js
+translate(200, 200);
+```
+
+También se enseñan las funciones `push()` y `pop()`, que funcionan como una memoria temporal para guardar y restaurar transformaciones y estilos del lienzo.
+
+Ejemplo:
+```js
+push();
+// transformaciones
+pop();
+```
+
+La función `scale()` permite cambiar el tamaño de los elementos aumentando o reduciendo su escala.
+
+Ejemplo:
+```js
+scale(2,2);
+```
+
+Después el documento introduce la lógica condicional y las expresiones booleanas, las cuales solo pueden devolver dos resultados:
+- `true`
+- `false`
+
+Se explican operadores de comparación como:
+- `==`
+- `!=`
+- `<`
+- `>`
+- `<=`
+- `>=`
+
+Y operadores lógicos como:
+- `&&` (AND)
+- `||` (OR)
+- `!` (NOT)
+
+Ejemplo:
+```js
+2 < 3 // true
+2 == 2 // true
+```
+
+Luego se presenta la estructura condicional `if`, que permite ejecutar código dependiendo de una condición.
+
+Ejemplo:
+```js
+if (condicion) {
+  // código
+}
+```
+
+También se explica el uso de:
+- `else if`
+- `else`
+
+para agregar más posibilidades dentro de una misma decisión.
+
+Ejemplo:
+```js
+if (condicion1) {
+
+} else if (condicion2) {
+
+} else {
+
+}
+```
+
+Finalmente, el encargo consiste en crear un sketch libre en p5.js que incluya:
+- figuras geométricas
+- rotación
+- translate
+- push y pop
+- scale
+- texto
+- imágenes
+- al menos dos estructuras completas de `if - else if - else`
