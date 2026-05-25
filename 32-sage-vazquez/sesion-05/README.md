@@ -1,4 +1,4 @@
-# sesión 04 - 17/04
+# sesión 05 - 17/04
 
 # Transformaciones y condicionales en p5.js
 ### ¿Qúe son las Radianes?
