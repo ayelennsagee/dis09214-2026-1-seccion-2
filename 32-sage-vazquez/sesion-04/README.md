@@ -1,6 +1,6 @@
 # sesión 04 - 10/04
 
-# Resumen — Datos Dinámicos y Variables en p5.js
+# Datos Dinámicos y Variables en p5.js
 
 El documento explica cómo crear movimiento e interacción en p5.js usando variables y funciones dinámicas. Se trabaja principalmente con datos que cambian en tiempo real, como la posición del mouse, el teclado o el tamaño de la ventana.
 
