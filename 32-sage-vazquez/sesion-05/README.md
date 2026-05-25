@@ -1,1 +1,3 @@
-# sesión 04 - 10/04
+# sesión 04 - 17/04
+
+Transformaciones y condicionales 
