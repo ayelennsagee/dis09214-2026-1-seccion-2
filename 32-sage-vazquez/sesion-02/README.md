@@ -87,8 +87,6 @@ Por ejemplo:
 ## Formatos básicos en Markdown
 
 ### Títulos
-
-```markdown
 # Título grande
 ## Subtítulo
 ### Texto más pequeño
@@ -113,7 +111,7 @@ Para agregar links:
 
 
 ---
- #03
+#03
 # Introducción a p5.js
 
 ## ¿Qué es p5.js?
