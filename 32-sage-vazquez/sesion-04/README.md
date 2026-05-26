@@ -48,10 +48,7 @@ Sintaxis:
 map(valor, minOriginal, maxOriginal, minNuevo, maxNuevo);
 ```
 
-Finalmente, el desafío de la clase consiste en tomar un dibujo anterior y agregarle movimiento utilizando todas las herramientas aprendidas:
-- variables dinámicas
-- movimiento con el mouse
-- objetos
-- `random()`
-- `map()`
-- tamaños dinámicos del canvas
+Desafío de la clase:
+https://editor.p5js.org/ayelennsagee/sketches/v0Yj3KntK
+
+
