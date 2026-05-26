@@ -99,12 +99,5 @@ if (condicion1) {
 }
 ```
 
-Finalmente, el encargo consiste en crear un sketch libre en p5.js que incluya:
-- figuras geométricas
-- rotación
-- translate
-- push y pop
-- scale
-- texto
-- imágenes
-- al menos dos estructuras completas de `if - else if - else`
+ENCARGO DESAFÍO CLASE
+https://editor.p5js.org/ayelennsagee/sketches/dJfuCy7CY
