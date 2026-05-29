@@ -14,4 +14,4 @@
 Es un contenedor donde podemos guardar múltiples datos **{array}** 
 ### Sintaxis
 - let nombreArray = [e0, e1, e2, e3, e4, e5]
-- ´let colores = ["red", "orange", "green", "blue"]´
+- `let colores = ["red", "orange", "green", "blue"]`
