@@ -15,3 +15,6 @@ Es un contenedor donde podemos guardar múltiples datos **{array}**
 ### Sintaxis
 - let nombreArray = [e0, e1, e2, e3, e4, e5]
 - `let colores = ["red", "orange", "green", "blue"]`
+---
+- ejemplo de la profe, la variable `index` netamente es para que al definirlo que nuestra variable array que creemo
+formato `markdown`
