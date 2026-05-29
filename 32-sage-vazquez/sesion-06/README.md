@@ -18,3 +18,23 @@ Es un contenedor donde podemos guardar múltiples datos **{array}**
 ---
 - ejemplo de la profe, la variable `index` netamente es para que al definirlo que nuestra variable array que creemo
 formato `markdown`
+`let Colores = ["red", "orange", "yellow", "green", "blue", "purple"];
+let index = 0; 
+
+function setup() {
+  createCanvas(400, 400);
+  frameRate(1);
+}
+
+function draw() {
+  //background(Colores[5]);
+  
+  
+  background(Colores[index]);
+  index = index + 1;
+
+  if (index >= Colores.length) {
+  index = 0; 
+ }
+}`
+
