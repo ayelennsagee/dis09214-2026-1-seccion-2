@@ -37,5 +37,12 @@ function draw() {
   if (index >= Colores.length) {
   index = 0; 
  }
-}```
+}
 
+```
+https://editor.p5js.org/PoliMujica/sketches/tU-ZTjF-D
+---
+#CLASS 
+Una clase (class) es un molde o plantilla abstracta que define la
+estructura, los datos (propiedades) y los comportamientos
+(métodos) que tendrá un tipo de objeto específico.
