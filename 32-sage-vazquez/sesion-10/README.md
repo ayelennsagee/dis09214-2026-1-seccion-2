@@ -4,7 +4,7 @@ En esta clase aprendimos la importancia de crear proyectos que puedan adaptarse 
 
 Al profundizar en el diseño responsivo, se introdujo el uso de una variable de referencia mediante min(width, height), la cual permite mantener proporciones más consistentes entre pantallas horizontales y verticales. Además, se recomendó el uso de translate(), push() y pop() para organizar mejor la posición de los elementos en proyectos más complejos.
 
-### Trabajo con imágenes
+## Trabajo con imágenes
 
 Subir imágenes al editor y organizarlas dentro de una carpeta de recursos.
 Declarar variables globales para almacenarlas.
