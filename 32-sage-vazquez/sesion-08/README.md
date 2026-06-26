@@ -58,6 +58,4 @@ Las clases se escriben fuera de setup() y draw(), se crean en setup() mediante n
 Se trabajó la relación entre arrays y clases para crear múltiples objetos de manera eficiente.
 Esta combinación permite generar sistemas más complejos, como partículas, personajes o elementos interactivos, gestionándolos a través de un solo array.
 
-11. ## Aplicación práctica
 
-Se propuso la creación de un sistema de partículas utilizando imágenes PNG, aplicando los conceptos de arrays y clases para generar múltiples elementos visuales de forma organizada y dinámica.
