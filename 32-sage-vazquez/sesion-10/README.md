@@ -4,9 +4,7 @@ En esta clase aprendimos la importancia de crear proyectos que puedan adaptarse 
 
 Al profundizar en el diseño responsivo, se introdujo el uso de una variable de referencia mediante min(width, height), la cual permite mantener proporciones más consistentes entre pantallas horizontales y verticales. Además, se recomendó el uso de translate(), push() y pop() para organizar mejor la posición de los elementos en proyectos más complejos.
 
-Trabajo con imágenes
-
-Posteriormente, la clase se enfocó en el uso de imágenes dentro de p5.js. Aprendimos el proceso completo:
+### Trabajo con imágenes
 
 Subir imágenes al editor y organizarlas dentro de una carpeta de recursos.
 Declarar variables globales para almacenarlas.
@@ -15,7 +13,7 @@ Dibujarlas en el lienzo mediante la función image().
 Ajustar su tamaño de forma responsiva utilizando ancho y alto variables.
 Manipulación de píxeles
 
-Finalmente, se introdujo una parte más avanzada relacionada con la manipulación de imágenes a nivel de píxel. Se explicó cómo funciona loadPixels(), que permite acceder directamente a la información visual de una imagen o del lienzo. También revisamos funciones como:
+Finalmente, se introdujo una parte más avanzada relacionada con la manipulación de imágenes a nivel de píxel. Se explicó cómo funciona "loadPixels()", que permite acceder directamente a la información visual de una imagen o del lienzo. También revisamos funciones como:
 
 get() para leer el color de un píxel.
 set() para modificar un píxel específico.
